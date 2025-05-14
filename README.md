@@ -36,8 +36,8 @@ rankyx-procurement/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/rankyx-procurement.git
-cd rankyx-procurement
+git clone https://github.com/mahmoud-maan/AI-Procurement-Agents.git
+cd AI-Procurement-Agents
 ```
 
 3. Install dependencies:
