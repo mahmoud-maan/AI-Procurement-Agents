@@ -1,0 +1,121 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.flipkart.com/apple-iphone-13-pro-max-sierra-blue-128-gb/p/itm7f26c6fa06536",
+      "product_title": "APPLE iPhone 13 Pro Max (Sierra Blue, 128 GB)",
+      "product_image_url": "https://rukminim1.flixcart.com/image/312/312/ktketu80/mobile/r/u/m/iphone-13-pro-max-mllf3hn-a-apple-original-imag6vpgwxjyprp4.jpeg?q=70",
+      "product_url": "https://www.flipkart.com/apple-iphone-13-pro-max-sierra-blue-128-gb/p/itm7f26c6fa06536",
+      "product_current_price": 119900.0,
+      "product_original_price": 129900.0,
+      "product_discount_percentage": 7.0,
+      "product_specs": [
+        {
+          "specification_name": "Color",
+          "specification_value": "Sierra Blue"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "128 GB"
+        },
+        {
+          "specification_name": "Display Size",
+          "specification_value": "17.02 cm (6.7 inch)"
+        },
+        {
+          "specification_name": "Processor",
+          "specification_value": "A15 Bionic Chip"
+        },
+        {
+          "specification_name": "Camera",
+          "specification_value": "12MP + 12MP + 12MP"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "Excellent performance with A15 Bionic Chip.",
+        "Great camera quality with multiple 12 MP sensors.",
+        "Sufficient storage for most users with 128 GB.",
+        "High price, but offers value with specifications and brand reputation.",
+        "Large display suitable for media consumption."
+      ]
+    },
+    {
+      "page_url": "https://www.flipkart.com/apple-iphone-11-black-64-gb/p/itm0f37c2240b217",
+      "product_title": "APPLE iPhone 11 (Black, 64 GB)",
+      "product_image_url": "https://rukminim1.flixcart.com/image/312/312/kgiaykw0-0/mobile/r/h/k/apple-iphone-11-dh82hn-a-original-imafwqepg5dyc5dz.jpeg?q=70",
+      "product_url": "https://www.flipkart.com/apple-iphone-11-black-64-gb/p/itm0f37c2240b217",
+      "product_current_price": 41999.0,
+      "product_original_price": 47900.0,
+      "product_discount_percentage": 12.0,
+      "product_specs": [
+        {
+          "specification_name": "Color",
+          "specification_value": "Black"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "64 GB"
+        },
+        {
+          "specification_name": "Display Size",
+          "specification_value": "15.49 cm (6.1 inch)"
+        },
+        {
+          "specification_name": "Processor",
+          "specification_value": "A13 Bionic Chip"
+        },
+        {
+          "specification_name": "Camera",
+          "specification_value": "12MP + 12MP"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Balanced performance with A13 Bionic Chip.",
+        "Affordable option with good camera quality.",
+        "Lower storage capacity compared to newer models.",
+        "More budget-friendly while still offering Apple ecosystem benefits.",
+        "Suitable display size for average use."
+      ]
+    },
+    {
+      "page_url": "https://www.flipkart.com/apple-iphone-12-mini-blue-128-gb/p/itm41d853c7b845b",
+      "product_title": "APPLE iPhone 12 Mini (Blue, 128 GB)",
+      "product_image_url": "https://rukminim1.flixcart.com/image/312/312/kg8avm80/mobile/r/h/9/apple-iphone-12-mini-dummyapplefsn-original-imafwgbr6aebyg8j.jpeg?q=70",
+      "product_url": "https://www.flipkart.com/apple-iphone-12-mini-blue-128-gb/p/itm41d853c7b845b",
+      "product_current_price": 64999.0,
+      "product_original_price": 69900.0,
+      "product_discount_percentage": 7.0,
+      "product_specs": [
+        {
+          "specification_name": "Color",
+          "specification_value": "Blue"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "128 GB"
+        },
+        {
+          "specification_name": "Display Size",
+          "specification_value": "13.72 cm (5.4 inch)"
+        },
+        {
+          "specification_name": "Processor",
+          "specification_value": "A14 Bionic Chip"
+        },
+        {
+          "specification_name": "Camera",
+          "specification_value": "12MP + 12MP"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Compact size ideal for one-handed use.",
+        "Powered by A14 Bionic Chip, efficient for its size.",
+        "Good dual-camera setup as in higher models.",
+        "Slightly higher price than expected for its specifications.",
+        "Best for users preferring smaller sizes without compromising on performance."
+      ]
+    }
+  ]
+}
