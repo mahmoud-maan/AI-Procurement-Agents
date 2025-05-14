@@ -14,7 +14,7 @@ os.makedirs(output_dir, exist_ok=True)
 # LLM configurations
 # llama3_3_llm = LLM(
 #     model="llama-3.3-70b",
-#     base_url="https://models.mylab.th-luebeck.dev/v1",
+#     base_url="your base url",
 #     api_key="dummy-api-key",
 #     temperature=0,
 # )
