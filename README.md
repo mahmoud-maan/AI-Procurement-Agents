@@ -1,4 +1,4 @@
-# Rankyx Procurement AI Agents
+# Procurement AI Agents
 
 An AI-powered procurement system that automates the process of discovering, evaluating, and comparing products across multiple e-commerce platforms. By leveraging LLM-based agents, the system intelligently formulates optimized search queries, fetches real-time product listings using search APIs, extracts detailed information through web scraping, and compiles the results into a comprehensive HTML report. It streamlines procurement research by reducing manual effort and improving decision-making with structured, side-by-side product comparisons. THE PROJECT IS STILL UNDER ONGOING IMPROVEMENTS.
 
